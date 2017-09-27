@@ -1,0 +1,7 @@
+C:\Users\LEHAU\Desktop\demo\demo\bin\Debug\demo.exe
+C:\Users\LEHAU\Desktop\demo\demo\bin\Debug\demo.pdb
+C:\Users\LEHAU\Desktop\demo\demo\obj\x86\Debug\demo.Form1.resources
+C:\Users\LEHAU\Desktop\demo\demo\obj\x86\Debug\demo.Properties.Resources.resources
+C:\Users\LEHAU\Desktop\demo\demo\obj\x86\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\LEHAU\Desktop\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\LEHAU\Desktop\demo\demo\obj\x86\Debug\demo.pdb
